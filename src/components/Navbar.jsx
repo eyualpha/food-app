@@ -52,7 +52,7 @@ const Navbar = () => {
 
       <div
         className={
-          nav ? " bg-black/80 fixed w-full z-10 top-0 h-screen left-0" : ""
+          nav ? " bg-black/70 fixed w-full z-10 top-0 h-screen left-0" : ""
         }
       >
         {/* Side Drawer Menu */}
