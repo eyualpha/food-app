@@ -3,7 +3,7 @@ import { categories } from "../data/data";
 
 const Category = () => {
   return (
-    <div className="max-w-[1640px] px-4 py-12">
+    <div className="max-w-[1640px] px-4 py-12 m-auto">
       <div className="">
         <h1 className="text-4xl text-bold text-center font-bold text-orange-500">
           Top Rated Menu Items
